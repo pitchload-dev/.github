@@ -1,7 +1,8 @@
 <p align="center">
-  <a href="https://github.com/pitchload-dev/.github/logo">
-    <picture>
-      <img alt="Pitchload Logo" src="https://github.com/pitchload-dev/.github/blob/main/logo/PitchloadLogo.svg" height="200">
+  <a href="https://github.com/pitchload-dev/.github/blob/main/logo">
+    <picture height="200">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pitchload-dev/.github/blob/main/logo/logo-dark.svg">
+      <img alt="Pitchload Logo" src="https://github.com/pitchload-dev/.github/blob/main/logo/logo-light.svg">
     </picture>
   </a>
 </p>
