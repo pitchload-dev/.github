@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/pitchload-dev/.github/logo">
     <picture>
-      <img alt="Pitchload Logo" src="https://raw.githubusercontent.com/pitchload-dev/.github/main/logo/{PitchloadLogo.svg" height="200">
+      <img alt="Pitchload Logo" src="https://github.com/pitchload-dev/.github/blob/main/logo/PitchloadLogo.svg" height="200">
     </picture>
   </a>
 </p>
